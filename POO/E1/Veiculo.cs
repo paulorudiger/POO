@@ -1,13 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.Intrinsics.X86;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace POO.E1
+﻿namespace POO.E1
 {
     // Classe -> estrutura que define as características(atributos) e comportamentos (métodos)
     // de um determinado tipo de objeto;
